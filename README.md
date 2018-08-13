@@ -1,4 +1,5 @@
 # devops-aula02
 #Jin Carrey
-#Angelina Jolie
+#Bruna Marquesine
 #Eduardo Lacerda
+#Lilian Cabrau
